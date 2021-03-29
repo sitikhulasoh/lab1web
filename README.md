@@ -25,5 +25,22 @@
 ## Langkah Ke Tujuh
 - Kemudikan  buat direct hayper link untuk menghubungkan link navigasi seperti gambar berikut
 ![pa agung 11](https://user-images.githubusercontent.com/56240533/112841905-3cef2b00-90cb-11eb-8e8a-98e0c1fee5c9.png)
-
 ![pa agung 12](https://user-images.githubusercontent.com/56240533/112841921-3fea1b80-90cb-11eb-9f39-476124acb877.png)
+
+awab Pertanyaan Berikut
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
+error ketika terjadi kesalahan penulisan tag?
+- ya, penempatan pada pargraf terbalik, dan link directnya eror
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+-  jika Tag <p> ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak.Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup</p> dan sedangkan tag <br>  ini merupakan  tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri.Tag <br/>  dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+- Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan sedangkan Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. 
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+- ya, karena supaya bisa menyesuaikan ukuran foto
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+- _blank = Membuka halaman website di tab baru.
+_self = browser akan menampilkan atau akan memuat dokumen yang dilink ke jendela atau ke frame yang sama di mana dokumen yang ada ditampilkan atau dimuat.
+_blank , browser akan menampilkan atau akan memuat dokumen yang dilink ke dalam jendela yang baru.
+_top = Menampilkan Dokumen yang di link ke dalam jendela yang baru dan fullscreen
+_parent = Membuka halaman website pada parent frame..
